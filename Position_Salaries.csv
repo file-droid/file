@@ -1,11 +1,19 @@
-Position,Level,Salary
+Position,Experience,Salary
 Business Analyst,1,45000
 Junior Consultant,2,50000
 Senior Consultant,3,60000
 Manager,4,80000
+Manager,12,120000
+Manager,2,30000
 Country Manager,5,110000
+Country Manager,20,150000
+Country Manager,15,140000
 Region Manager,6,150000
 Partner,7,200000
-Senior Partner,8,300000
+Senior Partner,7,300000
+Senior Partner,8,350000
+Senior Partner,6,200000
 C-level,9,500000
+C-level,5,400000
+C-level,2,200000
 CEO,10,1000000
